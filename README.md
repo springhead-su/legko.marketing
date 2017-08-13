@@ -1,4 +1,4 @@
-![image](http://presswall.springhead.su/static/images/logo.png)
+<img align="right" src="http://presswall.springhead.su/static/images/logo.png" />
 
 Запуск сайта Легкомаркет
 ===
@@ -7,8 +7,9 @@
 Создан список задач, закрытие которых необходимо для запуска - https://github.com/springhead-su/presswall/issues. Участие в обсуждениях приветствуется (необходимо зарегистрироваться на гитхабе - https://github.com).
 
 #### Текущие работы
-- Админка, наполнение контентом [Список задач](https://github.com/springhead-su/presswall/issues/9)
-- Оформление заказа [Список задач](https://github.com/springhead-su/presswall/issues/12)
+- Админка - **до 14.08**
+- Наполнение контентом [Список задач](https://github.com/springhead-su/presswall/issues/9) - **с 15.08**
+- Оформление заказа [Список задач](https://github.com/springhead-su/presswall/issues/12) - **с 15.08**
 
 ---
 
