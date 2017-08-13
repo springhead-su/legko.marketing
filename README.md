@@ -7,8 +7,8 @@
 Создан список задач, закрытие которых необходимо для запуска - https://github.com/springhead-su/presswall/issues. Участие в обсуждениях приветствуется (необходимо зарегистрироваться на гитхабе - https://github.com).
 
 #### Текущие работы
-- Админка - **до 14.08**
-- Наполнение контентом [Список задач](https://github.com/springhead-su/presswall/issues/9) - **с 15.08**
+- Админка [Список задач](https://github.com/springhead-su/presswall/issues/9) - **до 14.08**
+- Наполнение контентом - **с 15.08**
 - Оформление заказа [Список задач](https://github.com/springhead-su/presswall/issues/12) - **с 15.08**
 
 ---
