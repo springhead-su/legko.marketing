@@ -12,7 +12,7 @@
 - ~~Тестирование админки [Список задач](https://github.com/springhead-su/presswall/issues/18) - **с 15.08**~~
 - Оформление заказа [Список задач](https://github.com/springhead-su/presswall/issues/12) - **с 15.08**
   - ~~Автоопределение города~~
-  - Определение срока доставки [Список задач](https://github.com/springhead-su/presswall/issues/5)
+  - ~~Определение срока доставки [Список задач](https://github.com/springhead-su/presswall/issues/5)~~
   - Расчет стоимости доставки
 
 ---
