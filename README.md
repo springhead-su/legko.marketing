@@ -9,8 +9,10 @@
 #### Текущие работы
 - ~~Админка [Список задач](https://github.com/springhead-su/presswall/issues/9) - **до 14.08**~~
 - Наполнение контентом - **с 15.08**
-- Тестирование админки [Список задач](https://github.com/springhead-su/presswall/issues/18) - **с 15.08**
+- ~~Тестирование админки [Список задач](https://github.com/springhead-su/presswall/issues/18) - **с 15.08**~~
 - Оформление заказа [Список задач](https://github.com/springhead-su/presswall/issues/12) - **с 15.08**
+  - Автоопределение города
+  - Расчет стоимости доставки
 
 ---
 
