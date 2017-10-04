@@ -1,8 +1,8 @@
-<img align="right" src="http://presswall.springhead.su/static/images/logo.png" />
+<img align="right" src="http://dev.legko.marketing/static/images/logo.png" />
 
 Запуск сайта Легкомаркет
 ===
-Настроен тестовый сервер, выложена текущая версия сайта. Все изменения будут доступны по адресу http://presswall.springhead.su. Обновления планируются раз в сутки.
+Настроен тестовый сервер, выложена текущая версия сайта. Все изменения будут доступны по адресу http://dev.legko.marketing. Обновления планируются раз в сутки.
 
 Создан список задач, закрытие которых необходимо для запуска - https://github.com/springhead-su/presswall/issues. Участие в обсуждениях приветствуется (необходимо зарегистрироваться на гитхабе - https://github.com).
 
